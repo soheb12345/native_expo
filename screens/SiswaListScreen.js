@@ -11,6 +11,7 @@ const siswaData = [
   { id: '5', name: 'Bagas' },
   { id: '6', name: 'Farhan' },
   { id: '7', name: 'Masruroh' },
+  { id: '7', name: 'Fino' },
 ];
 
 export default function SiswaListScreen({ navigation }) {
